@@ -1,6 +1,7 @@
 # Matlab-Simulink-models
 Title of the paper:Transient Synchronization Stability Analysis of a Grid-connected Wind Farm with Multiple PMSGs
 The simulink models can be used to analyze the transient synchronization stability of the grid-connected wind farm with multiple PMSGs, as presented in the paper.
+Matlab version: Matlab 2019a
 Instruction file in the repository introduces the guidelines for using the simulation model and the detailed models of the system.
 Contact Information
 We are glad that you are interested in this research.
